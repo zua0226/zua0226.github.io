@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://s2.loli.net/2024/11/06/ACcqIGl4tLNi5uD.jpg" class="floatpic">
+<img src="https://th.bing.com/th/id/R.886a0ea4fbcc8907f9b1347896b28689?rik=X0mlbTaR3MgLgQ&riu=http%3a%2f%2fpic4.nipic.com%2f20090817%2f1242397_084018074_2.jpg&ehk=%2fiZNtjpPx3ZxC9pmqdS8mMegWSvIwZkGQIJa0uf41Gc%3d&risl=&pid=ImgRaw&r=0" class="floatpic">
 
 Here is **yzy **.<br>
 
