@@ -6,9 +6,7 @@ url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  #name: yzy
-  #avatar: hanlin.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+ 
   email: zua0226@zua.edu.cn
   # 社交链接部分
   qq: https://wpa.qq.com/msgrd?v=3&uin=2193026740&site=qq&menu=yes
@@ -48,8 +46,8 @@ links:
   #  url: /hobbies/
   #- title: Blogs
   #  url: /blogs/
-  #- title: Teams
-  #  url: /teams/
+  - title: Teams
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
