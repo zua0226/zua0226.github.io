@@ -7,9 +7,11 @@ url: https://caihanlin.com
 # Owner/author information
 owner:
   name: yzy
-  avatar: https://s2.loli.net/2024/11/07/PBkDe5XKbptSgAE.jpg
+  avatar: images/title.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: zua0226@zua.edu.cn
+  # 社交链接部分
+  qq: https://wpa.qq.com/msgrd?v=3&uin=2193026740&site=qq&menu=yes
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
