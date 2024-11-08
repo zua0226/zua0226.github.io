@@ -7,7 +7,7 @@ url: https://caihanlin.com
 # Owner/author information
 owner:
   name: yzy
-  avatar: images/1.png
+  #avatar: images/1.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: zua0226@zua.edu.cn
   # 社交链接部分
@@ -44,8 +44,8 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+  #  url: /hobbies/
   #- title: Blogs
   #  url: /blogs/
   - title: Teams
