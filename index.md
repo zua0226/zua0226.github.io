@@ -6,15 +6,18 @@ layout: page
 
 <img src="https://s2.loli.net/2024/11/11/sFBpg4nMP9Gz3TV.jpg" class="floatpic">
 
+<!-- 团队概况介绍 -->
 Here is **test标题测试**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as 
 
+<!-- 团队发展方向及目标 -->
+**AAAI-2024 and KDD-2024 Undergraduate Scholars：**.<br>
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 ---
 
-## Research Interests
+## 每学期更新的工作内容、项目实现、研究成果等内容
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
 
@@ -27,7 +30,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## News and Updates
+## 招生要求
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
@@ -38,5 +41,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<!-- 推特链接注释掉了 -->
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
